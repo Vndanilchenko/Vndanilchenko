@@ -2,7 +2,7 @@
 I am Vadim (Lead Data Scientist)
 <br />
 
-- 🔭 currently managing text/voice bot/OCR and Computer Vision teams at Home Credit Bank
+- 🔭 currently managing text/voice bot/OCR and Computer Vision teams at Home Credit Bank [1st place](https://www.naumen.ru/events/news/4525/) [2nd place](https://brobank.ru/luchshie-onlajn-chaty-bankov-nachala-2020/) [3rd place](https://brobank.ru/luchshie-onlajn-chaty-bankov-nachala-2021/) 
 - 🌱 and learning [Industrial ML on Big Data](https://otus.ru/lessons/ml-bigdata/)
 - ⚡ also working on my own courses on OCR and how to build a smart text chatbot on a big data stack
 - 📫 How to reach me: [<img align="center" alt="Vndanilchenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vndanilchenko/)

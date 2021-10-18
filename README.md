@@ -11,7 +11,7 @@ I am Vadim (Lead Data Scientist)
 <br />
 
 ---
-<!--
+
 #### Some Statistics
 
 <table>
@@ -20,20 +20,19 @@ I am Vadim (Lead Data Scientist)
      <td>Top Langs</td>
   </tr>
   <tr>
-    <td><img src="screenshots/Screenshot_1582745092.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745125.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
+    <td><img align="left" alt="Vndanilchenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vndanilchenko&show_icons=true&hide_border=true">
+    <td><img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vndanilchenko&layout=compact&show_icons=true&hide_border=true" />
   </tr>
  </table>
-
+<!--
 <p float="left">
   <img align="left" alt="Vndanilchenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vndanilchenko&show_icons=true&hide_border=true">
   <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vndanilchenko&layout=compact&show_icons=true&hide_border=true" />
 </p>
- -->
+ 
 
 <img align="left" alt="Vndanilchenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vndanilchenko&show_icons=true&hide_border=true"><img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vndanilchenko&layout=compact&show_icons=true&hide_border=true" />
-
+-->
 
 <!--
 **Vndanilchenko/Vndanilchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

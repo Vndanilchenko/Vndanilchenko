@@ -11,14 +11,18 @@ I am Vadim (Lead Data Scientist)
 <br />
 
 ---
+<img align="left" alt="Vndanilchenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vndanilchenko&show_icons=true&hide_border=true">|<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vndanilchenko&layout=compact&show_icons=true&hide_border=true">
 
+<!--
 <table>
   <tr>
     <td><img align="left" alt="Vndanilchenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vndanilchenko&show_icons=true&hide_border=true">
     <td><img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vndanilchenko&layout=compact&show_icons=true&hide_border=true" />
   </tr>
  </table>
-<!--
+ 
+ 
+
 <p float="left">
   <img align="left" alt="Vndanilchenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vndanilchenko&show_icons=true&hide_border=true">
   <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vndanilchenko&layout=compact&show_icons=true&hide_border=true" />

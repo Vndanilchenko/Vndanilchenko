@@ -12,13 +12,7 @@ I am Vadim (Lead Data Scientist)
 
 ---
 
-#### Some Statistics
-
 <table>
-  <tr>
-    <td>Vndanilchenko's Github Stats</td>
-     <td>Top Langs</td>
-  </tr>
   <tr>
     <td><img align="left" alt="Vndanilchenko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vndanilchenko&show_icons=true&hide_border=true">
     <td><img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vndanilchenko&layout=compact&show_icons=true&hide_border=true" />

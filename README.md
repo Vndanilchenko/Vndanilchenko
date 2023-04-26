@@ -2,7 +2,8 @@
 I am Vadim (Lead Data Scientist)
 <br />
 
-- 🔭 currently managing text/voice bot/OCR and Computer Vision teams at Home Credit Bank 
+- ⚡  Currently managing ML-bots team at Ozon Tech (classic dnn and generative models)
+- 🔭 Ex Lead of text/voice bot/OCR and Computer Vision teams at Home Credit Bank 
 - HCFB chatbot in country rating: [1st place](https://www.naumen.ru/events/news/4525/) and [2nd place](https://brobank.ru/luchshie-onlajn-chaty-bankov-nachala-2020/) and [3rd place](https://brobank.ru/luchshie-onlajn-chaty-bankov-nachala-2021/) 
 - 🌱 and learning [Industrial ML on Big Data](https://otus.ru/lessons/ml-bigdata/)
 - ⚡ also working on my own courses on OCR and how to build a smart text chatbot on a big data stack
